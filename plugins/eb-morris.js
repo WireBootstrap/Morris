@@ -1,12 +1,4 @@
-﻿/*
- eBlocks Morris library v1.0.8 (2016-3-6)
-
- (c) 2015, 2016 eBlocks, Inc.
-
- Distributed under MIT license: //code.eblocks.com/license/license-mit.txt
-*/
-
-(function () {
+﻿(function () {
 
     $.fn.ebmorris = function (config) {
 
