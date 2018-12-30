@@ -1,0 +1,16 @@
+{
+  "name": "eb.morris",
+  "version": "0.0.0",
+  "description": "Chart for WireBootstrap using Morris.js",
+  "license": "//cdn.wirebootstrap.com/libs/license",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wirebootstrap/morris"
+  },
+  "dependencies": {
+    "grunt-contrib-uglify": "^1.0.2"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
