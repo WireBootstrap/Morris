@@ -1,8 +1,6 @@
 <h1>Morris</h1>
 
-<kbd>
 <img align="left" src="https://my-stg.wirebootstrap.com/img/eb/test/morris2.png">
-</kbd>
 <p>
 <strong>
 Charts for WireBootstrap using Morris.js
