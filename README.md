@@ -1,5 +1,6 @@
+<h1>Morris</h1>
 
-<img align="left" width="100" height="100" src="https://my-stg.wirebootstrap.com//img/eb/test/morris2.png">
+<img align="left" src="https://my-stg.wirebootstrap.com//img/eb/test/morris2.png">
 
 <p>
 <strong>
