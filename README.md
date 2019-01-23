@@ -8,7 +8,7 @@ Charts for WireBootstrap using Morris.js
 </p>
 <p>
 Vendor: <a href="https://morrisjs.github.io/morris.js" target="_blank">Morris.js</a><br/>
-Support: <a href="http://www.www.com" target="_blank">WireBootstrap Forums</a><br/>
+Support: <a href="https://help.wirebootstrap.com/support/discussions/forums/22000200288" target="_blank">WireBootstrap Forums</a><br/>
 Demo: <a href="https://colorlib.com/polygon/gentelella/morisjs.html">Gentelella Template</a>
 </p>
 <p>
