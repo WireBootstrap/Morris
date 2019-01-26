@@ -1,4 +1,4 @@
-<h1>Morris</h1>
+<h1>Morris.js</h1>
 
 <img align="left" src="https://my-stg.wirebootstrap.com/img/eb/test/morris2.png">
 <p>
