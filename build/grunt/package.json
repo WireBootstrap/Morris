@@ -1,8 +1,8 @@
 {
   "name": "eb.morris",
   "version": "0.0.0",
-  "description": "Chart for WireBootstrap using Morris.js",
-  "license": "//cdn.wirebootstrap.com/libs/license",
+  "description": "Charts for WireBootstrap using Morris.js",
+  "license": "//cdn.wirebootstrap.com/libs/license/index.html",
   "repository": {
     "type": "git",
     "url": "https://github.com/wirebootstrap/morris"

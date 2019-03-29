@@ -1,6 +1,6 @@
 ﻿(function () {
 
-    $.fn.ebmorris = function (config) {
+    $.fn.ebMorris = function (config) {
 
         var self = this;
         var chart = null;
